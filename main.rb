@@ -30,3 +30,9 @@ class TicTacToe
 
 
 end
+
+games = {}
+
+Telegram::Bot::Client.run(token) do |bot|
+
+end
