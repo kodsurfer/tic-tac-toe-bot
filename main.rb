@@ -16,5 +16,17 @@ class TicTacToe
     def move(r,c)
     end
 
+    def switch
+    end
+
+    def check 
+    end
     
+    def full? 
+    end
+
+    def to_s 
+    end
+
+
 end
